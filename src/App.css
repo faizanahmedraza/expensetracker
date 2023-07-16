@@ -175,3 +175,9 @@ input[type='number'] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+
+.main-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

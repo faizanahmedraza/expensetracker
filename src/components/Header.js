@@ -1,7 +1,10 @@
-import React from 'react';
+import React from "react";
 
 export const Header = () => {
-    return (
-        <h1>React Expense Tracker</h1>
-    );
+  return (
+    <div className="main-heading">
+      <h1>Expense Tracker</h1>
+      <span className="">(Reactjs)</span>
+    </div>
+  );
 };

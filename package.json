@@ -1,5 +1,6 @@
 {
-  "name": "react-expense-tracker",
+  "name": "expensetracker",
+  "homepage": "https://faizanahmedraza.github.io/expensetracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
